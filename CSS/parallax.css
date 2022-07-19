@@ -10,14 +10,17 @@
 .top{
   background-image: url("https://www.w3schools.com/howto/img_parallax.jpg");
   height: 100%;
+  width: 100%;
 }
 .top2  {
   background-image: url("https://www.w3schools.com/howto/img_parallax2.jpg");
   height: 400px;
+  width: 100%;
 }
 .top3{
   background-image: url("https://www.w3schools.com/howto/img_parallax3.jpg");
   height: 400px;
+  width: 100%;
 }
 .caption,.caption2,.caption3{
 position: absolute;
@@ -59,12 +62,11 @@ h3{
   color: #ddd;
 }
 
-
 body,html{
   margin: 0;
   height: 100%;
   width: 100%;
   color: #777;
   font: 400 15px/1.8 "Lato", sans-serif;
-  text-align: center;  
+  text-align: center;
 }
