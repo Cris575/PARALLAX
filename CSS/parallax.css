@@ -63,6 +63,7 @@ h3{
 body,html{
   margin: 0;
   height: 100%;
+  width: 100%;
   color: #777;
   font: 400 15px/1.8 "Lato", sans-serif;
   text-align: center;  
