@@ -1,5 +1,6 @@
 .top,.top2,.top3{
   opacity: 0.65;
+  width: 100%;
   background-attachment: fixed;
   background-position: center;
   background-repeat: repeat;
@@ -10,17 +11,14 @@
 .top{
   background-image: url("https://www.w3schools.com/howto/img_parallax.jpg");
   height: 100%;
-  width: 100%;
 }
 .top2  {
   background-image: url("https://www.w3schools.com/howto/img_parallax2.jpg");
   height: 400px;
-  width:100%;
 }
 .top3{
   background-image: url("https://www.w3schools.com/howto/img_parallax3.jpg");
   height: 400px;
-  width: 100%;
 }
 .caption,.caption2,.caption3{
 position: absolute;
